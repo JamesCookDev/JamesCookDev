@@ -1,21 +1,21 @@
-# Olá, eu sou o James Cook Junior! 👋
+#Hi, I'm James Cook Junior! 👋
 
-**`Desenvolvedor Back-End & Aspirante a DevOps`**
+**`Back-End Developer & Aspiring DevOps`**
 
 <p align="left">
-  <a href="URL-DO-SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU-EMAIL@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/devcook/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:devjamesjunior@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻About Me
 
-Desenvolvedor Back-End de Belém do Pará com experiência na criação de APIs e serviços escaláveis. Atualmente, estou expandindo minha atuação para a área de DevOps, com foco em automação de processos, infraestrutura como código (IaC) e otimização de pipelines de CI/CD para acelerar a entrega de software de alta qualidade.
+Back-End Developer from Belém do Pará with experience in creating APIs and scalable services. Currently, I am expanding my work to the DevOps area, focusing on process automation, infrastructure as code (IaC) and CI/CD pipeline optimization to accelerate the delivery of high-quality software.
 
-* 🎓 Cursando **Ciência da Computação** na UNAMA.
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na UNIP.
-* 🚀 Apaixonado por resolver problemas e otimizar performance, acredito que a cultura DevOps é o caminho para entregar software de alta qualidade de forma ágil e segura.
+* 🎓 Studying **Computer Science** at UNAMA.
+* 🎓 Studying **Systems Analysis and Development** at UNIP.
+* 🚀 Passionate about solving problems and optimizing performance, I believe that DevOps culture is the way to deliver high-quality software in an agile and secure way.
 
-## 🛠️ Habilidades e Tecnologias
+## 🛠️ Skills and Technologies
 
 <h4> Back-End & Front-End</h4>
 <p align="left">
@@ -61,7 +61,7 @@ Desenvolvedor Back-End de Belém do Pará com experiência na criação de APIs 
 <br/><br/>
 
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHubGitHub Statistics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesCookDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de James Cook no GitHub" />
