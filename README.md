@@ -64,7 +64,7 @@ Back-End Developer from Belém do Pará with experience in creating APIs and sca
 ## 📊 Estatísticas do GitHubGitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesCookDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de James Cook no GitHub" />
+  <img height="180em" src="https://james-cook-dev.vercel.app/api?username=JamesCookDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas de James Cook no GitHub" />
   &nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCookDev&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por James Cook" />
+  <img height="180em" src="https://james-cook-dev.vercel.app/api/top-langs/?username=JamesCookDev&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por James Cook" />
 </p>
