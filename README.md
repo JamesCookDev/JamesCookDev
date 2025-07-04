@@ -1,19 +1,19 @@
 Hi, I'm James Cook Junior! 👋
 
-**`Back-End Developer & Aspiring DevOps`**
+**`Back-End Developer | DevOps Specialist in Training`**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devcook/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:devjamesjunior@email.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 👨‍💻About Me
+## 👨‍💻 About Me
 
-Back-End Developer from Belém do Pará with experience in creating APIs and scalable services. Currently, I am expanding my work to the DevOps area, focusing on process automation, infrastructure as code (IaC) and CI/CD pipeline optimization to accelerate the delivery of high-quality software.
+I am a Back-End Developer based in Belém do Pará, with solid experience in creating robust APIs and scalable services. I am currently transitioning and deepening my knowledge in the DevOps area, with a strategic focus on process automation, Infrastructure as Code (IaC) implementation and CI/CD pipeline optimization. My goal is to accelerate the delivery of high-quality software, ensuring efficiency and security throughout the development cycle.
 
-* 🎓 Studying **Computer Science** at UNAMA.
-* 🎓 Studying **Systems Analysis and Development** at UNIP.
-* 🚀 Passionate about solving problems and optimizing performance, I believe that DevOps culture is the way to deliver high-quality software in an agile and secure way.
+* 🎓 **Computer Science** student at UNAMA (University of the Amazon).
+* 🎓 Student of **Systems Analysis and Development** at UNIP (Universidade Paulista).
+* 🚀Passionate about technical challenges and the continuous search for performance optimization, I firmly believe that DevOps culture is fundamental for the continuous delivery of excellent solutions, with agility and security.
 
 ## 🛠️ Skills and Technologies
 
@@ -28,7 +28,7 @@ Back-End Developer from Belém do Pará with experience in creating APIs and sca
   <a href="https://go.dev/" target="_blank" title="Go">
     <img align="left" alt="Go" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL (SQL)">
+  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL (SQL )">
     <img align="left" alt="PostgreSQL (SQL)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   </a>
   <a href="https://git-scm.com/" target="_blank" title="Git">
@@ -37,7 +37,7 @@ Back-End Developer from Belém do Pará with experience in creating APIs and sca
 </p>
 <br/><br/>
 
-<h4>☁️ DevOps & Infraestrutura (Foco de Estudo)</h4>
+<h4>☁️ DevOps and Infrastructure (Focus of Study)</h4>
 <p align="left">
   <a href="https://kubernetes.io" target="_blank" title="Kubernetes">
     <img align="left" alt="Kubernetes" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
@@ -60,21 +60,30 @@ Back-End Developer from Belém do Pará with experience in creating APIs and sca
 </p>
 <br/><br/>
 
+---
 
-## 📊 Estatísticas do GitHubGitHub Statistics
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JamesCookDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-    height="180"
-  />
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesCookDev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JamesCookDev&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCookDev&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCookDev&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8"
-    alt="Linguagens Mais Usadas"
-    height="180"
-  />
-</p>
+### 🚀 My Goals
+
+*   Deepen your knowledge of **DevOps** and **Cloud Computing**.
+*   Contribute to open source projects.
+* Develop innovative solutions that positively impact the community.
+  
+### 🤝 Connect With Me
+
+I am always open to new connections and opportunities. Feel free to contact me:
+
+*   **LinkedIn:** [James Cook Jr](https://www.linkedin.com/in/devcook/ )
+*   **Email:** devjamesjunior@email.com
+
+---
