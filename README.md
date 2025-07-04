@@ -1,4 +1,4 @@
-#Hi, I'm James Cook Junior! 👋
+Hi, I'm James Cook Junior! 👋
 
 **`Back-End Developer & Aspiring DevOps`**
 
