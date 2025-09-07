@@ -11,6 +11,8 @@
 </p>
 
 ---
+## 📰 Minha Atividade Recente no GitHub
+---
 
 ## 👨‍💻 About Me
 
