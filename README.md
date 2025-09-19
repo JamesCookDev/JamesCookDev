@@ -5,11 +5,7 @@
   <a href="https://www.linkedin.com/in/devcook/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:devjamesjunior@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+  
 ---
 
 ## 👨‍💻 About Me
@@ -78,7 +74,3 @@ I’m a Back-End Developer based in Belém do Pará with solid experience in bui
   <a href="https://www.linkedin.com/in/devcook/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:devjamesjunior@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
